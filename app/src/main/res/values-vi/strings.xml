@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SharedPreference_BaiTap1</string>
+    <string name="hintName">Tên</string>
+    <string name="hintEmail">Email</string>
+    <string name="hintPassword">Mật khẩu</string>
+    <string name="btRegister">Đăng ký</string>
+    <string name="txtRegister">Đăng ký</string>
+    <string name="txtHello">Xin chào</string>
+</resources>

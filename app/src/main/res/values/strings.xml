@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SharedPreference_BaiTap1</string>
+    <string name = "hintName">Name</string>
+    <string name = "hintEmail">Email</string>
+    <string name = "hintPassword">Password</string>
+    <string name = "btRegister">Register</string>
+    <string name = "txtRegister">Register</string>
+    <string name = "txtHello">Hello</string>
+</resources>
